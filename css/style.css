@@ -49,10 +49,21 @@ p {
   font-size: 15px; }
 
 .main-block {
-  padding: 90px 0; }
+  padding: 90px 0; 
+}
   @media (max-width: 768px) {
     .main-block {
-      padding: 45px 0; } }
+      padding: 45px 0; 
+    }
+    
+    .main-block {
+      padding: 45px 0; 
+    }
+
+    .margin-100{
+      margin-top: 100px; /* custom */
+    }
+  }
 
 .light-bg {
   background: #f3f4f7; }
@@ -965,6 +976,7 @@ footer {
 
 /*# sourceMappingURL=style.css.map */
 
+/* custom */
 .top-row{
   background-color: black !important;
 }
