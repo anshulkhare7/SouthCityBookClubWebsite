@@ -28,11 +28,11 @@
   image: member-rajesh.png
   link: "https://www.rajeshpande.com/"
 
-- author:  "Ankur"
+- author:  "Member 2"
   topic: "Entrepreneurship in 21st century and its future" 
   date: "28th June 2019"
-  image: member-ankur.png        
-  link: "/calendar.html#"
+  image: member-female.png
+  link: "/calendar.html#"  
 
 - author:  "Usha"
   topic: "How to enhance the Emotional Quotient?" 
@@ -105,11 +105,11 @@
   date: "20th Sept 2019"
   image: member-female.png        
   link: "/calendar.html#"
-  
-- author:  "Member 2"
-  topic: "Time management and productivity secrets of CEO’s" 
+
+- author:  "Ankur"
+  topic: "Time management and productivity secrets of CEO’s"   
   date: "27th Sept 2019"
-  image: member-female.png
+  image: member-ankur.png        
   link: "/calendar.html#"
   
 - author:  "Member 3"
