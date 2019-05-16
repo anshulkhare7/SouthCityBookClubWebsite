@@ -43,10 +43,10 @@
   date: "19th July 2019"        
   image: member-male.png
 
-- author:  "Member 1"
-  topic: "How to develop business writing skills" 
+- author:  "Subhashini"
+  topic: "Leveraging the power of LinkedIn" 
   date: "26th July 2019"
-  image: member-male.png        
+  image: member-female.png
 
 - author:  "Manoj"
   topic: "History of humankind from Stone Age to modern history" 
@@ -90,11 +90,11 @@
   
 - author:  "Member 2"
   topic: "Time management and productivity secrets of CEO’s" 
-  date: "27th Sept 2019"        
+  date: "27th Sept 2019"
   image: member-female.png
   
 - author:  "Member 3"
-  topic: "he book that got converted into a movie and had great management insights" 
+  topic: "A book that got converted into a movie and had great management insights" 
   date: "4th Oct 2019"        
   image: member-female.png
   
@@ -121,4 +121,129 @@
 - author:  "Member 6"
   topic: "Contributing to the world around" 
   date: "8th Nov 2019"        
+  image: member-male.png
+
+- author:  "Ganeshan"
+  topic: "Future technologies like AI and Cryptocurrencies (for non-techies)" 
+  date: "15th Nov 2019"  
+  image: member-male.png
+
+- author:  "Raj"
+  topic: "TBD" 
+  date: "22nd Nov 2019" 
+  image: member-male.png   
+
+- author:  "Gopikrishnan"
+  topic: "A Management lesson from an unlikely source"
+  date: "29th Nov 2019" 
+  image: member-male.png   
+
+- author:  "Kamesh"
+  topic: "Big ideas from the field of philosophy — like Stoicism" 
+  date: "6th Dec 2019"
+  image: member-male.png      
+
+- author:  "Rajesh"
+  topic: "How to fight fear and avoid procrastination" 
+  date: "13th Dec 2019"
+  image: member-male.png        
+
+- author:  "Ankur"
+  topic: "TBD" 
+  date: "20th Dec 2019"
+  image: member-male.png        
+
+- author:  "Usha"
+  topic: "The art of Negotiating your way to success in work and life" 
+  date: "27th Dec 2019" 
+  image: member-female.png       
+
+- author:  "Madhuri"
+  topic: "Discovering happiness" 
+  date: "3rd Jan 2020"
+  image: member-female.png
+
+- author:  "Madhusudan"
+  topic: "New trends which will transform the society — Autonomous cars, EVs, Space technology, Nano robots, etc." 
+  date: "10th Jan 2020"
+  image: member-male.png
+
+- author:  "Subhashini"
+  topic: "Networkers or upskillers - who makes it to the c-suite"
+  date: "17th Jan 2020"
+  image: member-female.png
+
+- author:  "Manoj"
+  topic: "Fundamentals of investing and personal finance" 
+  date: "24th Jan 2020"        
+  image: member-male.png
+  
+- author:  "Keshav"
+  topic: "Is work life balance a reality or myth in digital age?" 
+  date: "31st Jan 2020"
+  image: member-male.png        
+  
+- author:  "Anshul"
+  topic: "How to develop business writing skills." 
+  date: "7th Feb 2020"
+  image: member-male.png        
+  
+- author:  "Ananth"
+  topic: "Principles of human psychology — persuasion, cognitive biases etc." 
+  date: "14th Feb 2020"        
+  image: member-male.png
+  
+- author:  "Anupam"
+  topic: "The insightful book on power talks" 
+  date: "21st Feb 2020"
+  image: member-male.png        
+
+- author:  "Deepesh"
+  topic: "Internet, technology and our brains" 
+  date: "28th Feb 2020"
+  image: member-male.png       
+  
+- author:  "Radhakrishnan"
+  topic: "Decision making and the role of probability and randomness (Success and its relation to Skill and Luck)" 
+  date: "6th Mar 2020"
+  image: member-male.png         
+  
+- author:  "Sanjana"
+  topic: "The powerful book on innovation"
+  date: "13th Mar 2020"
+  image: member-female.png        
+  
+- author:  "Member 2"
+  topic: "Autobiography of legends in business." 
+  date: "20th Mar 2020"
+  image: member-female.png
+  
+- author:  "Member 3"
+  topic: "How to conduct effective meetings" 
+  date: "27th Mar 2020"       
+  image: member-female.png
+  
+- author:  "Member 4"
+  topic: "How to be more creative — tools and frameworks" 
+  date: "3rd Apr 2020"        
+  image: member-male.png
+  
+- author:  "Srikrishnan"
+  topic: "Decoding the art of Execution" 
+  date: "10th Apr 2020" 
+  image: member-male.png       
+  
+- author:  "Sailaja"
+  topic: "Is strategic thinking an art or a learnable skill?" 
+  date: "17th Apr 2020" 
+  image: member-female.png          
+  
+- author:  "Member 5"
+  topic: "From learner to blogger" 
+  date: "24th Apr 2020"        
+  image: member-female.png
+  
+- author:  "Member 6"
+  topic: "Building powerful habits" 
+  date: "1st May 2020"        
   image: member-male.png
