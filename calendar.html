@@ -151,8 +151,8 @@ title: home
                         {% for item in site.data.calendar %}
                         <div class="customer-review_wrap">
                             <div class="customer-img">
-                                <img src="images/{{item.image}}" class="img-fluid" alt="#">
-                                <p>{{item.author}}</p>
+                                <a href="{{item.link}}"><img src="images/{{item.image}}" class="img-fluid" alt="#"></a>
+                                <p><a href="{{item.link}}">{{item.author}}</a></p>
                                 <!-- <span>35 Reviews</span> -->
                             </div>
                             <div class="customer-content-wrap">
