@@ -1,62 +1,72 @@
 - author:  "Ganeshan"
-  topic: "The art of Negotiating your way to success in work and life" 
+  topic: "The art of negotiating your way to success in work and life" 
   date: "24th May 2019"  
   image: member-male.png
-  link: "/calendar.html#"
+  link: "https://www.linkedin.com/in/ganesanarulanandham/"
+  notes: "https://www.evernote.com/l/AZ8ALqSOXzFIf6nigxBFat2pFwGC9NBY8UY"
 
-- author:  "Raj"
-  topic: "Mastering the money game (Secrets of the rich)" 
-  date: "31st May 2019" 
-  image: member-raj.png   
-  link: "/calendar.html#"
+- author:  "Rajesh"
+  topic: "Discovering your life's purpose" 
+  date: "31st May 2019"   
+  image: member-rajesh.png
+  link: "https://www.rajeshpande.com/"
+  
 
 - author:  "Gopikrishnan"
   topic: "Financial planning and management"
   date: "7th June 2019" 
   image: member-male.png   
   link: "/calendar.html#"
+  
 
 - author:  "Kamesh"
   topic: "Raising happy children" 
   date: "14th June 2019"
   image: member-male.png      
   link: "/calendar.html#"
+  
 
-- author:  "Rajesh"
-  topic: "Discovering your life's purpose" 
+- author:  "Raj"
+  topic: "Mastering the money game (Secrets of the rich)" 
   date: "21st June 2019"
-  image: member-rajesh.png
-  link: "https://www.rajeshpande.com/"
+  image: member-raj.png   
+  link: "/calendar.html#"
+  
 
 - author:  "Member 2"
   topic: "Entrepreneurship in 21st century and its future" 
   date: "28th June 2019"
   image: member-female.png
   link: "/calendar.html#"  
+  
 
 - author:  "Usha"
   topic: "How to enhance the Emotional Quotient?" 
   date: "5th July 2019" 
   image: member-female.png       
   link: "/calendar.html#"
+  
 
 - author:  "Madhuri"
   topic: "Lessons from sports and sports stars" 
   date: "12th July 2019"        
   image: member-female.png
   link: "/calendar.html#"
+  
 
 - author:  "Madhusudan"
   topic: "The book that had a greatest influence on my life" 
   date: "19th July 2019"        
   image: member-male.png
   link: "/calendar.html#"
+  
 
 - author:  "Subhashini"
   topic: "Leveraging the power of LinkedIn" 
   date: "26th July 2019"
   image: member-female.png
   link: "/calendar.html#"
+  
 
 - author:  "Manoj"
   topic: "History of humankind from Stone Age to modern history" 
@@ -64,29 +74,34 @@
   image: member-male.png
   link: "/calendar.html#"
   
+  
 - author:  "Keshav"
   topic: "Spirituality and Success" 
   date: "9th August 2019"
   image: member-male.png        
   link: "https://www.linkedin.com/in/keshav-shrivastava-3b543a15/"
   
+
 - author:  "Anshul"
   topic: "Principles of good design" 
   date: "16th August 2019"
   image: member-anshul.png               
   link: "https://anshulkhare.in"
   
+
 - author:  "Ananth"
   topic: "Leading teams successfully" 
   date: "23rd August 2019"        
   image: member-male.png
   link: "/calendar.html#"
   
+  
 - author:  "Anupam"
   topic: "Favourite movie based on a book" 
   date: "30th August 2019"
   image: member-male.png        
   link: "/calendar.html#"
+  
 
 - author:  "Deepesh"
   topic: "Healthy Body, Healthy Mind" 
@@ -94,17 +109,20 @@
   image: member-male.png       
   link: "https://www.linkedin.com/in/deepeshgoel/"  
   
+
 - author:  "Radhakrishnan"
   topic: "Communicating for impact" 
   date: "13th Sept 2019"
   image: member-male.png         
   link: "/calendar.html#"
   
+
 - author:  "Sanjana"
   topic: "Is cognitive thinking, intuition or delusional thinking essential part of leadership?"
   date: "20th Sept 2019"
   image: member-female.png        
   link: "/calendar.html#"
+  
 
 - author:  "Ankur"
   topic: "Time management and productivity secrets of CEO’s"   
@@ -112,97 +130,114 @@
   image: member-ankur.png        
   link: "/calendar.html#"
   
+
 - author:  "Satish"
   topic: "A book that got converted into a movie and had great management insights" 
   date: "4th Oct 2019"        
   image: member-male.png
   link: "/calendar.html#"
   
+
 - author:  "Member 4"
   topic: "Innovation and understanding human computer interaction. " 
   date: "11th Oct 2019"        
   image: member-male.png
   link: "/calendar.html#"
   
+
 - author:  "Srikrishnan"
   topic: "Satisfied parent and successful professional" 
   date: "18th Oct 2019" 
   image: member-male.png       
   link: "/calendar.html#"
   
+
 - author:  "Sailaja"
   topic: "Building your Network" 
   date: "25th Oct 2019" 
   image: member-female.png          
   link: "/calendar.html#"
   
+
 - author:  "Member 5"
   topic: "How to effectively communicate in a team" 
   date: "1st Nov 2019"        
   image: member-female.png
   link: "/calendar.html#"
   
+
 - author:  "Bhooma Krishnan"
   topic: "Contributing to the world around" 
   date: "8th Nov 2019"        
   image: member-male.png
   link: "/calendar.html#"
+  
 
 - author:  "Ganeshan"
   topic: "Future technologies like AI and Cryptocurrencies (for non-techies)" 
   date: "15th Nov 2019"  
   image: member-male.png
   link: "/calendar.html#"
+  
 
 - author:  "Raj"
   topic: "Autobiography of legends in business" 
   date: "22nd Nov 2019" 
   image: member-raj.png   
   link: "/calendar.html#"
+  
 
 - author:  "Gopikrishnan"
   topic: "A Management lesson from an unlikely source"
   date: "29th Nov 2019" 
   image: member-male.png   
   link: "/calendar.html#"
+  
 
 - author:  "Kamesh"
   topic: "Big ideas from the field of philosophy — like Stoicism" 
   date: "6th Dec 2019"
   image: member-male.png      
   link: "/calendar.html#"
+  
 
 - author:  "Rajesh"
   topic: "How to fight fear and avoid procrastination" 
   date: "13th Dec 2019"
   image: member-rajesh.png        
   link: "https://www.rajeshpande.com/"
+  
 
 - author:  "Satish"
   topic: "TBD" 
   date: "20th Dec 2019"
   image: member-male.png
   link: "/calendar.html#"
+  
 
 - author:  "Usha"
   topic: "The art of Negotiating your way to success in work and life" 
   date: "27th Dec 2019" 
   image: member-female.png       
+  
 
 - author:  "Madhuri"
   topic: "Discovering happiness" 
   date: "3rd Jan 2020"
   image: member-female.png
+  
 
 - author:  "Madhusudan"
   topic: "New trends which will transform the society — Autonomous cars, EVs, Space technology, Nano robots, etc." 
   date: "10th Jan 2020"
   image: member-male.png
+  
 
 - author:  "Subhashini"
   topic: "Networkers or upskillers - who makes it to the c-suite"
   date: "17th Jan 2020"
   image: member-female.png
+  
 
 - author:  "Manoj"
   topic: "Fundamentals of investing and personal finance" 
@@ -210,29 +245,34 @@
   image: member-male.png
   link: "/calendar.html#"
   
+
 - author:  "Keshav"
   topic: "Is work life balance a reality or myth in digital age?" 
   date: "31st Jan 2020"
   image: member-male.png        
   link: "https://www.linkedin.com/in/keshav-shrivastava-3b543a15/"
   
+
 - author:  "Anshul"
   topic: "How to develop business writing skills." 
   date: "7th Feb 2020"
   image: member-anshul.png        
   link: "https://anshulkhare.in"
   
+
 - author:  "Ananth"
   topic: "Principles of human psychology — persuasion, cognitive biases etc." 
   date: "14th Feb 2020"        
   image: member-male.png
   link: "/calendar.html#"
   
+
 - author:  "Anupam"
   topic: "The insightful book on power talks" 
   date: "21st Feb 2020"
   image: member-male.png        
   link: "/calendar.html#"
+  
 
 - author:  "Deepesh"
   topic: "Internet, technology and our brains" 
@@ -240,23 +280,27 @@
   image: member-male.png     
   link: "https://www.linkedin.com/in/deepeshgoel/"  
   
+
 - author:  "Radhakrishnan"
   topic: "Decision making and the role of probability and randomness (Success and its relation to Skill and Luck)" 
   date: "6th Mar 2020"
   image: member-male.png         
   link: "/calendar.html#"
   
+
 - author:  "Sanjana"
   topic: "The powerful book on innovation"
   date: "13th Mar 2020"
   image: member-female.png        
   link: "/calendar.html#"
   
+
 - author:  "Member 2"
   topic: "History, evolution, today and tomorrow" 
   date: "20th Mar 2020"
   image: member-female.png
   link: "/calendar.html#"
+  
 
 - author:  "Ankur"
   topic: "How to conduct effective meetings" 
@@ -264,32 +308,38 @@
   image: member-ankur.png        
   link: "/calendar.html#"
   
+
 - author:  "Member 4"
   topic: "How to be more creative — tools and frameworks" 
   date: "3rd Apr 2020"        
   image: member-male.png
   link: "/calendar.html#"
   
+
 - author:  "Srikrishnan"
   topic: "Decoding the art of Execution" 
   date: "10th Apr 2020" 
   image: member-male.png       
   link: "/calendar.html#"
   
+
 - author:  "Sailaja"
   topic: "Is strategic thinking an art or a learnable skill?" 
   date: "17th Apr 2020" 
   image: member-female.png          
   link: "/calendar.html#"
   
+
 - author:  "Member 5"
   topic: "From learner to blogger" 
   date: "24th Apr 2020"        
   image: member-female.png
   link: "/calendar.html#"
   
+
 - author:  "Bhooma Krishnan"
   topic: "Building powerful habits" 
   date: "1st May 2020"        
   image: member-male.png
   link: "/calendar.html#"
+  

@@ -180,8 +180,10 @@ title: home
                                     <li><img src="images/review-img2.jpg" class="img-fluid" alt="#"></li>
                                     <li><img src="images/review-img3.jpg" class="img-fluid" alt="#"></li>
                                 </ul> -->
-                                <!-- <span>28 people marked this review as helpful</span>
-                                <a href="#"><span class="icon-like"></span>Helpful</a> -->
+                                <!-- <span>28 people marked this review as helpful</span>-->
+                                {% if item.notes %}
+                                    <a href="{{item.notes}}" target="_blank"><span class="icon-docs"></span>Download Notes</a> 
+                                {% endif %}                                
                             </div>
                         </div>
                         <hr>
