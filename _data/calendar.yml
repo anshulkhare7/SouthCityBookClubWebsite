@@ -11,29 +11,19 @@
   image: member-rajesh.png
   link: "https://www.rajeshpande.com/"
   notes: "https://www.evernote.com/l/AZ9WFHhJxVdBjKlx0NEM1156Dx72huOFGr4"
-  
-
-- author:  "Gopikrishnan"
-  topic: "Financial planning and management"
-  date: "7th June 2019" 
-  image: member-male.png   
-  link: "/calendar.html#"
-  
-
-- author:  "Kamesh"
-  topic: "Raising happy children" 
+    
+- author:  "Anshul"
+  topic: "Principles of good design" 
   date: "14th June 2019"
-  image: member-male.png      
-  link: "/calendar.html#"
-  
+  image: member-anshul.png               
+  link: "https://anshulkhare.in"
 
-- author:  "Raj"
-  topic: "Mastering the money game (Secrets of the rich)" 
+- author:  "Deepesh"
+  topic: "How to write a book" 
   date: "21st June 2019"
-  image: member-raj.png   
-  link: "/calendar.html#"
+  image: member-male.png      
+  link: "/calendar.html#"  
   
-
 - author:  "Member 2"
   topic: "Entrepreneurship in 21st century and its future" 
   date: "28th June 2019"
@@ -83,10 +73,10 @@
   link: "https://www.linkedin.com/in/keshav-shrivastava-3b543a15/"
   
 
-- author:  "Anshul"
-  topic: "Principles of good design" 
+- author:  "Member 1"
+  topic: "Raising happy children" 
   date: "16th August 2019"
-  image: member-anshul.png               
+  image: member-male.png               
   link: "https://anshulkhare.in"
   
 
