@@ -20,39 +20,31 @@
   notes: "https://www.evernote.com/l/AZ-GbncXYyFAxYIOXAu19watlHznqbKuELE"
 
 - author:  "Deepesh"
-  topic: "How to write a book" 
+  topic: "How to write a book"
   date: "21st June 2019"
-  image: member-male.png      
-  link: "/calendar.html#"  
-  
-- author:  "Member 2"
-  topic: "Entrepreneurship in 21st century and its future" 
-  date: "28th June 2019"
-  image: member-female.png
-  link: "/calendar.html#"  
-  
-
-- author:  "Usha"
-  topic: "How to enhance the Emotional Quotient?" 
-  date: "5th July 2019" 
-  image: member-female.png       
-  link: "/calendar.html#"
-  
+  image: member-male.png
+  link: "https://www.linkedin.com/in/deepeshgoel/"
+  notes: "https://www.evernote.com/l/AZ8pJBS6YbpHxrmo1YeocUERyw4YspxaSas"
 
 - author:  "Madhuri"
-  topic: "Lessons from sports and sports stars" 
-  date: "12th July 2019"        
+  topic: "Jonathan Livingston Seagull" 
+  date: "5th July 2019" 
   image: member-female.png
   link: "/calendar.html#"
   
-
+- author:  "Anshul"
+  topic: "Antifragile" 
+  date: "12th July 2019"        
+  image: member-anshul.png
+  link: "https://anshulkhare.in"
+  notes: "https://www.evernote.com/l/AZ8ROU_v88ZFgrtj4ysPWH54fMuyQoGis4s"
+  
 - author:  "Madhusudan"
   topic: "The book that had a greatest influence on my life" 
   date: "19th July 2019"        
   image: member-male.png
   link: "/calendar.html#"
   
-
 - author:  "Subhashini"
   topic: "Leveraging the power of LinkedIn" 
   date: "26th July 2019"
@@ -314,24 +306,32 @@
   image: member-male.png       
   link: "/calendar.html#"
   
-
 - author:  "Sailaja"
   topic: "Is strategic thinking an art or a learnable skill?" 
   date: "17th Apr 2020" 
   image: member-female.png          
   link: "/calendar.html#"
   
-
 - author:  "Member 5"
   topic: "From learner to blogger" 
   date: "24th Apr 2020"        
   image: member-female.png
   link: "/calendar.html#"
   
-
 - author:  "Bhooma Krishnan"
   topic: "Building powerful habits" 
   date: "1st May 2020"        
   image: member-male.png
   link: "/calendar.html#"
   
+- author:  "Member 2"
+  topic: "Entrepreneurship in 21st century and its future" 
+  date: "8th May 2019"
+  image: member-female.png
+  link: "/calendar.html#"  
+ 
+- author:  "Madhuri"
+  topic: "Lessons from sports and sports stars" 
+  date: "15th May 2019"        
+  image: member-female.png
+  link: "/calendar.html#" 
