@@ -1,8 +1,8 @@
 # South City Book Club Static Website
 
-Built using Jekyll. Served by Github Pages.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b7e8a64-bb76-4ae6-b5f6-ad77f0e12eba/deploy-status)](https://app.netlify.com/sites/scbookclub/deploys)
 
-The website is now defunct and the domain name **southcitybookclub.tk** wasn't renewed.
+Built using Jekyll. Served by Netlify.
 
-The bookclub meets are still going strong in offline mode.
+The website is not being updated anymore but the bookclub meets are still going strong in offline mode.
 
