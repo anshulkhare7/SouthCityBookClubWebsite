@@ -4,5 +4,11 @@
 
 Built using Jekyll. Served by Netlify.
 
-The website is not being updated anymore but the bookclub meets are still going strong in offline mode.
+## Docker
+
+Using docker for [local setup](https://dev.to/michael/compile-a-jekyll-project-without-installing-jekyll-or-ruby-by-using-docker-4184)
+
+Run this docker command from inside the root folder of the project.
+
+`docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve`
 
